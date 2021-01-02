@@ -1,0 +1,17 @@
+409a2c8 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+5300a2a HEAD@{1}: checkout: moving from develop to master
+409a2c8 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): source added
+fc7fb9d (origin/images, images) HEAD@{3}: merge images: Fast-forward
+1f8c189 HEAD@{4}: checkout: moving from images to develop
+fc7fb9d (origin/images, images) HEAD@{5}: commit: index.html changed
+518f8aa HEAD@{6}: checkout: moving from styles to images
+05f47b1 (origin/styles, styles) HEAD@{7}: commit: added css folder and fonts folder
+1f8c189 HEAD@{8}: checkout: moving from develop to styles
+1f8c189 HEAD@{9}: checkout: moving from images to develop
+518f8aa HEAD@{10}: commit: index.html changed with images source
+db5a580 HEAD@{11}: commit: images added
+1f8c189 HEAD@{12}: checkout: moving from develop to images
+1f8c189 HEAD@{13}: commit: index.html added
+5300a2a HEAD@{14}: checkout: moving from master to develop
+5300a2a HEAD@{15}: pull https://github.com/RomanDelim/DevOps_online_Lviv_2020Q42021Q1.git: Fast-forward
+43119f1 HEAD@{16}: initial pull
