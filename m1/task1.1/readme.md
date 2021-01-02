@@ -1,18 +1,20 @@
-Configured git:
-  git config --list
-  credential.helper=osxkeychain
-  core.editor=code --wait
-  user.name=Roman Delimarskyi
-  user.email=delimroman@gmail.com
+### Configured git:
 
-Created GitHubaccount with new repo with requested folders
-Added develop branch with index.html
-Added images branch with images in folder
-Changed index.html with  source 
-Added styles with styles in folder 
-Merged two branches into develop 
-Merged develop into master
-Pushed all changes to origin 
-Added trainers as collaborators 
+  - git config --list
+	- credential.helper=osxkeychain
+	- core.editor=code --wait
+	- user.name=Roman Delimarskyi
+	- user.email=delimroman@gmail.com
+	
 
-Regular git workflow, nothing special.
+- Created GitHubaccount with new repo with requested folders
+- Added develop branch with index.html
+- Added images branch with images in folder
+- Changed index.html with  source 
+- Added styles with styles in folder 
+- Merged two branches into develop 
+- Merged develop into master
+- Pushed all changes to origin 
+- Added trainers as collaborators 
+
+### Regular git workflow, nothing special.
