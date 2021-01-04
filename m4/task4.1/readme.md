@@ -34,3 +34,9 @@
 
 ### Topology 4.
 ![screenshot 8](screenshots/8.png)
+
+
+
+### Topology 5. In this case we can see that router used for path determination and switching between two subnets.For communication between different subnets packet has to reach router (layer 3) devices to process this packet.
+![screenshot 9](screenshots/9.png)
+
